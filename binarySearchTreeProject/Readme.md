@@ -7,7 +7,7 @@
 
 -----
 
-### Soru 1: Binary-Search-Tree aşamalarını yazınız.
+### Soru: Binary-Search-Tree aşamalarını yazınız.
 ```
         4
        / \
