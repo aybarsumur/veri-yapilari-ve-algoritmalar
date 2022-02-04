@@ -1,3 +1,3 @@
 # VERİ YAPILARI VE ALGORİTMALAR PROJELER
 
-## 1 - [Insertion Sort](insertionSortProject\Readme.md)
+## 1 - [Insertion Sort](InsertionSortProject/Readme.md)
